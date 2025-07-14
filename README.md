@@ -6,9 +6,9 @@ I'm Pradhyumna Palekar, a passionate student want to explore into the exciting w
 
 - **Languages:** C, C++,Python, SQL,PLSQL ,JAVA , 
 
-#### 🌱 Currently Learning:
+####  Education :
 
-Currently pursuing B.E in Computer Science at Savitribai Phule Pune University, I am eager to learn, grow, and contribute to the ever-evolving tech landscape.
+B.E in Computer Science at Savitribai Phule Pune University, I am eager to learn, grow, and contribute to the ever-evolving tech landscape.
 
 #### 🤝 Let's Connect:
 
