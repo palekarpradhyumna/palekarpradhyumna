@@ -4,7 +4,7 @@ I'm Pradhyumna Palekar, a passionate student want to explore into the exciting w
 
 #### 🚀 My Expertise:
 
-- **Languages:** C, C++,Python, SQL,PLSQL ,JAVA , 
+- **Languages:** C, C++,Python, SQL,PLSQL ,JAVA
 
 ####  Education :
 
